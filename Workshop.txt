@@ -1,0 +1,23 @@
+Workshop 2D to 3D Image:
+
+Duration: 
+3 Hours (2 Hours Work, 1 Hour Digestion)
+
+Prerequisites:
+
+Strictly necessary!
+- Laptop/PC
+- Photomaterial
+- Google Account
+- Adobe Cloud Account (Free Trial is also fine)
+
+Optional
+- Blender 3D
+- Adobe Aero (Beta) - Desktopversion
+
+
+Tools:
+https://www.remove.bg/
+https://remove-background.net/
+https://www.mixamo.com/
+https://www.screenrecorder.online/
